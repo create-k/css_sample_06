@@ -41,10 +41,13 @@ a {
   padding: 10px;
   border-radius: 10px;
   text-decoration: none;
+  transition-property: background-color;
+  transition-duration: .5s;
 }
 
 a:visited {
   color: white;
+  
 }
 
 a:hover {
